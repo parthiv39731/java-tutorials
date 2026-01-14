@@ -21,6 +21,11 @@ This module contains source code related to the articles on Spring AI.
 - [Spring AI Integration with Perplexity AI](https://www.kodesastra.com/2025/07/spring-ai-integration-with-perplexity-ai.html)
 - [Spring AI - Azure Open AI Integration](https://www.kodesastra.com/2025/10/spring-ai-azure-open-ai-integration.html)
 
+### Spring AI MCP
+This module contains source code related to articles and examples using Spring AI MCP.
+
+- [MCP Server and Client Implementation Using Spring AI](https://www.kodesastra.com/2026/01/spring-ai-mcpclient-mcpserver-impl.html)
+
 ### Spring AI + Qdrant
 This module contains source code related to integrating Spring AI with the Qdrant vector database.
 

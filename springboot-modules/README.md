@@ -2,7 +2,7 @@
 
 ## **Spring AI**
 
-This module contains source codes related to the articles on Spring AI.
+This module contains source code related to the articles on Spring AI.
 
 - [**Building AI Assistance Using Spring AI's Function Calling API**](https://www.kodesastra.com/2024/12/building-ai-assistance-using-spring-ai-function-calling.html)
 - [**Spring AI Structured Output API**](https://www.kodesastra.com/2024/12/spring-ai-structured-output-api.html)
@@ -16,7 +16,14 @@ This module contains source codes related to the articles on Spring AI.
 
 ## **Spring AI Qdrant**
 
-This module contains source codes related to the articles on Spring AI integration with Qdrant DB.
+This module contains source code related to the articles on Spring AI integration with Qdrant DB.
 
 - [**Qdrant DB - Spring AI Integration**](https://www.kodesastra.com/2024/10/qdrant-db-spring-ai-Integration.html)
 - [**Implement Rag with Spring AI and Qdrant DB**](https://www.kodesastra.com/2024/11/rag-with-spring-ai-qdrantdb.html)
+
+## **Spring AI MCP**
+
+This module contains source code related to the articles on Spring AI MCP
+
+- [**MCP Server and Client Implementation Using Spring AI**](https://www.kodesastra.com/2026/01/spring-ai-mcpclient-mcpserver-impl.html)
+
